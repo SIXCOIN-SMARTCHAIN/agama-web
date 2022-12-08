@@ -9,7 +9,7 @@ let Config = {
   defaultFiatCurrency: 'USD',
   // single coin option
   sendCoinAllowFiatEntry: false,
-  whitelabel: false,
+  whitelabel: true,
   /*preload: {
     seed: '',
     coins: [''],

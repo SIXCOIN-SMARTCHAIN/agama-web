@@ -1,7 +1,8 @@
 export const proxyServers = [{
-  ip: 'www.atomicexplorer.com',
-  port: 9998,
-  ssl: true,
+  ip: 'electrum1.sixcoin.site',
+  port: 10001,
+  ssl: false,
+  tcp: true
 }];
 
 export default proxyServers;
